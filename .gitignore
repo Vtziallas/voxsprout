@@ -5,3 +5,5 @@ venv/
 *.db
 .env
 .env.local
+
+backend/data/recordings/
