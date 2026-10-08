@@ -1,0 +1,65 @@
+{
+  "language": "en",
+  "words": [
+    {
+      "id": "en_cat",
+      "word": "cat",
+      "phoneme_target": "k",
+      "position": "initial",
+      "ipa": "kæt",
+      "image_filename": "cat.jpg",
+      "acquisition_age_min_months": 30,
+      "acquisition_age_max_months": 42,
+      "detects": ["fronting", "substitution"],
+      "translation": "cat"
+    },
+    {
+      "id": "en_dog",
+      "word": "dog",
+      "phoneme_target": "d",
+      "position": "initial",
+      "ipa": "dɒɡ",
+      "image_filename": "dog.jpg",
+      "acquisition_age_min_months": 24,
+      "acquisition_age_max_months": 36,
+      "detects": ["voicing_error", "substitution"],
+      "translation": "dog"
+    },
+    {
+      "id": "en_sun",
+      "word": "sun",
+      "phoneme_target": "s",
+      "position": "initial",
+      "ipa": "sʌn",
+      "image_filename": "sun.jpg",
+      "acquisition_age_min_months": 48,
+      "acquisition_age_max_months": 72,
+      "detects": ["stopping", "substitution"],
+      "translation": "sun"
+    },
+    {
+      "id": "en_rabbit",
+      "word": "rabbit",
+      "phoneme_target": "r",
+      "position": "initial",
+      "ipa": "ˈræbɪt",
+      "image_filename": "rabbit.jpg",
+      "acquisition_age_min_months": 60,
+      "acquisition_age_max_months": 84,
+      "detects": ["gliding", "substitution"],
+      "translation": "rabbit"
+    },
+    {
+      "id": "en_fish",
+      "word": "fish",
+      "phoneme_target": "ʃ",
+      "position": "final",
+      "ipa": "fɪʃ",
+      "image_filename": "fish.jpg",
+      "acquisition_age_min_months": 48,
+      "acquisition_age_max_months": 72,
+      "detects": ["final_consonant_deletion", "stopping"],
+      "translation": "fish"
+    }
+  ]
+}

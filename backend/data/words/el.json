@@ -1,0 +1,65 @@
+{
+  "language": "el",
+  "words": [
+    {
+      "id": "el_gata",
+      "word": "γάτα",
+      "phoneme_target": "ɣ",
+      "position": "initial",
+      "ipa": "ˈɣata",
+      "image_filename": "gata.jpg",
+      "acquisition_age_min_months": 42,
+      "acquisition_age_max_months": 60,
+      "detects": ["fronting", "voicing_error"],
+      "translation": "cat"
+    },
+    {
+      "id": "el_bala",
+      "word": "μπάλα",
+      "phoneme_target": "b",
+      "position": "initial",
+      "ipa": "ˈbala",
+      "image_filename": "bala.jpg",
+      "acquisition_age_min_months": 24,
+      "acquisition_age_max_months": 36,
+      "detects": ["voicing_error", "substitution"],
+      "translation": "ball"
+    },
+    {
+      "id": "el_roda",
+      "word": "ρόδα",
+      "phoneme_target": "r",
+      "position": "initial",
+      "ipa": "ˈroða",
+      "image_filename": "roda.jpg",
+      "acquisition_age_min_months": 54,
+      "acquisition_age_max_months": 72,
+      "detects": ["gliding", "substitution"],
+      "translation": "wheel"
+    },
+    {
+      "id": "el_saligkari",
+      "word": "σαλιγκάρι",
+      "phoneme_target": "s",
+      "position": "initial",
+      "ipa": "saliŋˈɡari",
+      "image_filename": "saligkari.jpg",
+      "acquisition_age_min_months": 42,
+      "acquisition_age_max_months": 60,
+      "detects": ["stopping", "substitution"],
+      "translation": "snail"
+    },
+    {
+      "id": "el_spiti",
+      "word": "σπίτι",
+      "phoneme_target": "sp",
+      "position": "cluster",
+      "ipa": "ˈspiti",
+      "image_filename": "spiti.jpg",
+      "acquisition_age_min_months": 60,
+      "acquisition_age_max_months": 84,
+      "detects": ["cluster_reduction", "stopping"],
+      "translation": "house"
+    }
+  ]
+}
