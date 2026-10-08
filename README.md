@@ -1,4 +1,4 @@
-# LogotherapyPro
+# VoxSprout
 
 AI-powered speech therapy assessment platform for children. Therapists record a
 child reading target words, and the system transcribes the audio, extracts

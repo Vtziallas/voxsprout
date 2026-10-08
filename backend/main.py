@@ -6,7 +6,7 @@ from routers import auth, patients, sessions, feedback, training
 from config import IMAGES_DIR, REPORTS_DIR
 
 app = FastAPI(
-    title="LogotherapyPro API",
+    title="VoxSprout API",
     description="AI-powered speech therapy assessment platform for children",
     version="1.0.0",
 )
